@@ -103,9 +103,13 @@ The Lob constructor accepts an `options` object which may contain one or more of
 
 ## Examples
 
-We've provided various examples for you to try out [here](https://github.com/lob/lob-node/tree/master/examples).
+We've provided various examples for you to try out. You can edit and
+deploy the code directly using [Clay.](https://www.clay.run/categories/lob) 
 
-There are simple scripts to demonstrate how to create all the core Lob objects (checks, letters, postcards. etc.) as well as more complex examples that utilize other libraries and external files.
+Try creating a postcard now using the API. No set up or configuration
+needed:
+
+[Fork & Edit the live code:](https://www.clay.run/services/kareemclay/lob-create-postcard-from-html/code)
 
 #### Accessing Response Headers
 
