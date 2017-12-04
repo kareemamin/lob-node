@@ -107,9 +107,7 @@ We've provided various examples for you to try out. You can edit and
 deploy the code directly using [Clay.](https://www.clay.run/categories/lob) 
 
 Try creating a postcard now using the API. No set up or configuration
-needed:
-
-[Fork & Edit the live code:](https://www.clay.run/services/kareemclay/lob-create-postcard-from-html/code)
+needed: [Fork & Edit the live code](https://www.clay.run/services/kareemclay/lob-create-postcard-from-html/code)
 
 #### Accessing Response Headers
 
